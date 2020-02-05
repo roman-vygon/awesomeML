@@ -1,2 +1,2 @@
-# awesomeML
-Machine learning pipelines
+#NLP pipeline
+https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle
